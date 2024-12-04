@@ -1,0 +1,48 @@
+Body {
+    Font-family: Arial, sans-serif;
+    Line-height: 1.6;
+    Margin: 0;
+    Padding: 0;
+    Background-color: #f4f4f4;
+    Color: #333;
+}
+
+Header {
+    Background: #007bff;
+    Color: white;
+    Padding: 1em 0;
+    Text-align: center;
+}
+
+Main {
+    Padding: 20px;
+    Max-width: 600px;
+    Margin: 20px auto;
+    Background: white;
+    Border-radius: 8px;
+    Box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.product {
+    Text-align: center;
+}
+
+.price {
+    Font-size: 1.5em;
+    Color: #007bff;
+    Margin: 10px 0;
+}
+
+Button {
+    Background: #007bff;
+    Color: white;
+    Border: none;
+    Padding: 10px 15px;
+    Cursor: pointer;
+    Border-radius: 5px;
+    Font-size: 1em;
+}
+
+Button:hover {
+    Background: #0056b3;
+}
